@@ -276,6 +276,7 @@ attacks.
         * [Yubikey](https://www.amazon.co.uk/Yubico-YubiKey-USB-Authentication-Security/dp/B018Y1Q71M)
             * I recommend having 2 yubikeys - one that you keep with you and one kept in a safe.
         * [Google Titan](https://cloud.google.com/titan-security-key/) - an alternative to Yubikey
+        * [Solo](https://solokeys.com/) - an *open source* alternative to Yubikey
 
     * 2FA App
         * [Google Authenticator](https://en.wikipedia.org/wiki/Google_Authenticator)
